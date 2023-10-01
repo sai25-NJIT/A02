@@ -34,6 +34,6 @@ GLOSSARY
 - repository: a central storage location for managing and tracking changes in files and directories 
 
 
-Works Cited
+Works Cited:
 Ajibola, Segun. “How to Use Git and GitHub – Introduction for Beginners.” freeCodeCamp, 26 September 2022, https://www.freecodecamp.org/news/introduction-to-git-and-github/. Accessed 30 September 2023.
 WebStorm. “Getting started with WebStorm | WebStorm Documentation.” JetBrains, 6 September 2023, https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_go_to_declaration. Accessed 30 September 2023.
