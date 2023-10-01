@@ -17,4 +17,4 @@ There are many Git commands that a user is able to use in the terminal. Here I w
 - git remote add origin: connects the local folder to the repository on GitHub
 - git push -u origin main: pushes the code to GitHub
 
-To use Webstorm, first download Webstorm from the internet. 
+To use Webstorm, first download Webstorm from the internet. Afterwards, you can experiment with Webstorm and see its many features, but there are 4 main things that a user can do in Webstorm. The first thing a user can do is open a project. To do this, locate the Welcome Screen, click Open and then select the folder with your application in teh dialog that opens. Another thing a user can do is check out a project. First click Get from VCS on the Welcome Screen
